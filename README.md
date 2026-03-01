@@ -51,16 +51,6 @@ These models are used during simulation for real-time classification and decisio
 | `dust_detection_cnn.h5` | Trained CNN for dust detection |
 | `stair_detection_cnn.h5` | Trained CNN for stair/floor classification |
 
-## How to Run
-
-1. Clone the repo
-   git clone https://github.com/Yogananda16/smart-vacuum-cleaner-ai.git
-   cd smart-vacuum-cleaner-ai
-2. Install dependencies:
-   pip install tensorflow opencv-python pillow tqdm numpy
-3. Python integration.py
-4. Press ESC to close the simulation window
-
 ## Tech Stack
 
 1. Python
